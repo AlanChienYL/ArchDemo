@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Arch Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_load">Load</string>
+    <string name="button_sort">Sort</string>
+
+</resources>
